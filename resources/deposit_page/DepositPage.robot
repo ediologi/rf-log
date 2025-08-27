@@ -2,8 +2,8 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${DEPOSIT_NAV_BUTTON}       xpath=//a[text()='Deposit']
-${UPLOAD_BUKTI_BAYAR_BUTTON}       xpath=//button[normalize-space()='Upload Bukti Bayar']
+${DEPOSIT_NAV_BUTTON}           xpath=//a[text()='Deposit']
+${UPLOAD_BUKTI_BAYAR_BUTTON}    xpath=//button[normalize-space()='Upload Bukti Bayar']
 
 *** Keywords ***
 Click Deposit Navigation Button

@@ -1,0 +1,11 @@
+{
+    // Make sure Robot Framework Language Server uses the venv
+    "robot.python.executable": "${workspaceFolder}/venv/bin/python3",
+    "robot.language-server.python": "${workspaceFolder}/venv/bin/python3",
+
+    // Optional: format and lint your robot files automatically
+    "editor.formatOnSave": true,
+    "[robot]": {
+        "editor.defaultFormatter": "robocorp.robotframework-lsp"
+    }
+}

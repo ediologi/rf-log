@@ -1,0 +1,14 @@
+{
+  "NamaDepan": "Hire Me",
+  "TempatLahir": "Indonesia",
+  "TanggalLahir": "01/01/1990",
+  "NomorKTP": "1234567890123456",
+  "MasaBerlakuKTP": "01/01/2030",
+  "Domisili": "Jakarta",
+  "NomorTelepon": "081234567890",
+  "Email": "john@example.com",
+  "Password": "SuperSecret123",
+  "ConfirmPassword": "SuperSecret123",
+  "NomorRekening": "1234567890",
+  "NamaPemilikRekening": "Hire Me"
+}

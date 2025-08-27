@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Robot Framework tests
         run: |
-          robot --outputdir output tests/
+          robot --variable BROWSER:headlesschrome --outputdir output tests/
 
       - name: Upload Robot Framework Report
         uses: actions/upload-artifact@v4
